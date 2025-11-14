@@ -66,7 +66,8 @@ CREATE DATABASE restaurante;
 
 5️ -  Rodar o servidor: 
 node index.js
-//-----------------------------------------------------------------------------------------
+
+
 Testando no Postman👨‍🚀 
 
 Crie uma requisição POST para /reservas
